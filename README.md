@@ -5,7 +5,7 @@ A repository wherein I host static .md files for my own personal blog.
 I want to create my own blogging site ASAP, so, I will temporarily use github as my site's CMS
 in order to push forward with my ideas. 
 
-Originally, I was using heroku, but with their recent [announcement](https://blog.heroku.com/next-chapter), I am now unable to host my other CMS
+Originally, I deployed my CMS using heroku, but with their recent [announcement](https://blog.heroku.com/next-chapter), I am now unable to host my other CMS
 that uses strapi.
 
 ### Self-Made CMS?
